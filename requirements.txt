@@ -1,0 +1,8 @@
+pymupdf
+python-docx
+pandas
+openpyxl
+dateparser
+unidecode
+rapidfuzz
+gradio==3.50.2
