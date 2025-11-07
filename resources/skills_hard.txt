@@ -1,0 +1,43 @@
+# Lista de habilidades técnicas (una por línea)
+Python
+Java
+Go
+Linux
+Windows
+Bash
+PowerShell
+Docker
+Kubernetes
+SQL
+NoSQL
+Git
+EDR
+XDR
+NDR
+SIEM
+SOAR
+MITRE ATT&CK
+Sigma
+CVE
+Nmap
+Wireshark
+BurpSuite
+Nessus
+OSINT
+Threat Hunting
+DFIR
+CTI
+Sandbox
+YARA
+Suricata
+Zeek
+Splunk
+QRadar
+ELK
+Wazuh
+Microsoft Sentinel
+XSIAM
+CrowdStrike
+SentinelOne
+Palo Alto
+Fortinet
