@@ -1,0 +1,16 @@
+# Habilidades de ciberseguridad (una por línea)
+Hardening
+SIEM
+SOAR
+Respuesta a incidentes
+Detección
+Inteligencia de amenazas
+Forense
+Red Team
+Purple Team
+Vulnerabilidades
+MITRE D3FEND
+NIST
+ISO 27001
+ENS
+NIS2
